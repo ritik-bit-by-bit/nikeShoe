@@ -30,12 +30,12 @@ const Hero = () => {
           <p className="text-gray-600">Also Available on </p>
           <div className="brand-icons flex space-x-4">
             <img
-              src="./public/image/flipj.jpeg"
+              src="./image/flipj.jpeg"
               alt="flipkart"
               className="h-10 w-auto"
             />
             <img
-              src="./public/image/amazon.jpg"
+              src="./image/amazon.jpg"
               alt="amazon"
               className="h-10 w-auto"
             />
@@ -44,7 +44,7 @@ const Hero = () => {
       </div>
       <div className="hero-image md:w-1/2 w-full">
         <img
-          src="./public/image/shoe_image.jpg"
+          src="./image/shoe_image.jpg"
           alt="shoe"
           className="w-full h-auto rounded-lg shadow-lg"
         />
